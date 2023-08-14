@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "tutorial JavaScript com uso do node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesp1201/nodejs.git"
+  },
+  "author": "Weslley Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesp1201/nodejs/issues"
+  },
+  "homepage": "https://github.com/wesp1201/nodejs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

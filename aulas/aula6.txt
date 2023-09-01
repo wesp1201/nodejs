@@ -1,0 +1,10 @@
+exercicio 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PDV (ponto de vendas)
+desenvolver no scratch e no node um APP para pagamento
+(PDV) de um comercio
+modelo:
+total: 300,00 (variavel)
+desconto: 10% (variavel)
+total com desconto: 270,00 (calculado automaticamente)
+valor pago em dinheiro: 300,00 (variavel)
+troco: 30,00 (calculado automaticamente)

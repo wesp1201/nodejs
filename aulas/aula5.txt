@@ -1,0 +1,6 @@
+exercicio 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+regra de 3 (calculo de porcentagem)
+criar no scrach e no JS um App para fazer o calculo da %
+seguindo o modelo:
+10% de 200 = 20
+x      y     valor

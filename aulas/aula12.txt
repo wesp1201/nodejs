@@ -1,0 +1,4 @@
+desenvolvimento de simuladores lógicos dno scratch
+-AND
+-OR
+-NOT

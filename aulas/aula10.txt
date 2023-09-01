@@ -1,0 +1,19 @@
+ mandamentos da progamaçao
+
+1- mandamento
+entender o problema
+
+2- mandamento
+pensar na UX (experiencia do usuario) 
+
+3- mandamento
+clean code (usar o minimo de recursos possivel)
+
+----------------------------------------------------
+exercicios desenvolver no Scratch e no NodeJS um APP que informe qual é o combustivel mais vantajoso (etanol x gasolina)
+para abastecer um carro flex.
+
+// variaveis
+etanol, gasolina 
+//processamento/saida
+se o preço do litro do etanol custar ate 70% da gasolina
